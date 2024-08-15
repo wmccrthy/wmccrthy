@@ -1,6 +1,8 @@
 ## Hi there 👋 I'm Wyatt
 
+<!--
 [![wmccrthy's GitHub stats](https://github-readme-stats-wmccrthy.vercel.app/api?username=wmccrthy)](https://github.com/wmccrthy/github-readme-stats)
+-->
 
 
 <!--
