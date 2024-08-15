@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Wyatt
 
-[![wmccrthy's GitHub stats](https://github-readme-stats-wmccrthy.vercel.app//api?username=wmccrthy)](https://github.com/anuraghazra/github-readme-stats)
+[![wmccrthy's GitHub stats](https://github-readme-stats-git-master-wyatts-projects-180cc3d2.vercel.app/api?username=wmccrthy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **wmccrthy/wmccrthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
